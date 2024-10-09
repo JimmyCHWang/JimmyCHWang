@@ -1,6 +1,4 @@
-![Looking for job](https://img.shields.io/badge/Seeking%20Fulltime%20SWE%20Position%20in%20SF%20Bay%20Area-red)
-
-![Master Degree](https://img.shields.io/badge/Master-CMU%20MS%20ECE-blue) ![Bachelor Degree](https://img.shields.io/badge/Bachelor-UCSC%20BS%20CS%20%2F%20BA%20Network-blue) ![Experience](https://img.shields.io/badge/Work%20Experience-2%20years-violet)
+![Master Degree](https://img.shields.io/badge/Master-CMU%20MS%20ECE-blue) ![Bachelor Degree](https://img.shields.io/badge/Bachelor-UCSC%20BS%20CS%20%2F%20BA%20Network-blue) ![Experience](https://img.shields.io/badge/Work%20Experience-3%20years-violet)
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
